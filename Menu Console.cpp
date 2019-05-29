@@ -5,7 +5,6 @@
 #include "Keyboard.h"
 #include "Items.h"
 
-std::vector<int> vc;
 using namespace std;
 
 string repeat_text(string s, int n)
